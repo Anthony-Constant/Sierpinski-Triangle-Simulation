@@ -17,6 +17,6 @@
   <li>Experiment with changing the number of generations and observe the output.</li>
 </ul>
 <h2>Credits</h2>
-<p>This script was created by Anthony Constant (AC). If you have any questions or suggestions, you can contact him at [anthonyconstant.co.uk/](https://anthonyconstant.co.uk/)</p>
+<p>This script was created by Anthony Constant (AC). If you have any questions or suggestions, you can contact him at [anthonyconstant.co.uk/]</p>
 <h2>License</h2>
 <p>This script is released under the MIT License. See the LICENSE file for more details.</p>
